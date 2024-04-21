@@ -1,5 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return <main>Hello World! form my docker container</main>;
+  return <main>Main Page of my application</main>;
 }
